@@ -14,4 +14,5 @@ Here we demonstrate the model and it's functionality, and performance on a Sound
 Currently the entire code is given in an .ipynb file, but a more modularised codebase will be committed shortly.
 
 *This work was selected for best paper at a coporate whitepaper contest organised by Affine (Bengaluru, India).*
-*Consider this workk copyrighted to the owner of the repository.*
+
+*Consider this work copyrighted to the owner of the repository.*
