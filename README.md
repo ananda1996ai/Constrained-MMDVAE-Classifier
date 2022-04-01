@@ -9,7 +9,7 @@ This allows for development of classifier models that are incredibly fast, and v
 
 Thus, we can moniker them as **denoising classifiers** 😀
 
-Here we demonstrate the model and it's functionality, and performance on a Sound Classification dataset. (MIMII: https://zenodo.org/record/3384388)
+Here we demonstrate the model, it's functionality, and performance on a Sound Classification dataset. (MIMII: https://zenodo.org/record/3384388)
 
 Currently the entire code is given in an .ipynb file, but a more modularised codebase will be committed shortly.
 
